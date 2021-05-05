@@ -1,6 +1,7 @@
 # Data Science para Negócios
 
 Author: Foster Provost & Tom Fawcett
+Capa: Data%20Science%20para%20Nego%CC%81cios%204389c27aa0cb47339c509d0aae71494f/capa_livro_ds_para_negocios.jpg
 Publisher: Alta Books
 Publishing/Release Date: Jan 1, 2016
 Score /5: ⭐️⭐️⭐️⭐️⭐️
